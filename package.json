@@ -1,0 +1,19 @@
+{
+	"name": "business-signup",
+	"version": "1.0.0",
+	"description": "",
+	"main": "sign-up.nvue",
+	"scripts": {
+		"test": ""
+	},
+	"keywords": [],
+	"author": "Pan Wei",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/WilliamIOS/business-signup.git"
+	},
+	"dependencies": {
+		"vue": "3.0.0"
+	}
+}
